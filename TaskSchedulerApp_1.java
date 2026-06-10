@@ -2,7 +2,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicLong;
 
-public class TaskSchedulerApp {
+public class TaskSchedulerApp_1 {
 
     private static final AtomicLong insertionCounter = new AtomicLong(0);
 
